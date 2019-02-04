@@ -51,7 +51,7 @@ io.on('connection', function (socket) {
         }
 
 
-    }, 10000);
+    }, 900000); // 15 minutes
 });
 // var express = require('express');
 // var app     = express();
